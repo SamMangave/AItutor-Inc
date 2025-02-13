@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AItutor-Incu/static/css/main.643bf819.css",
-    "main.js": "/AItutor-Incu/static/js/main.014ead94.js",
+    "main.js": "/AItutor-Incu/static/js/main.d57d0eda.js",
     "static/js/488.267755a2.chunk.js": "/AItutor-Incu/static/js/488.267755a2.chunk.js",
     "index.html": "/AItutor-Incu/index.html",
     "main.643bf819.css.map": "/AItutor-Incu/static/css/main.643bf819.css.map",
-    "main.014ead94.js.map": "/AItutor-Incu/static/js/main.014ead94.js.map",
+    "main.d57d0eda.js.map": "/AItutor-Incu/static/js/main.d57d0eda.js.map",
     "488.267755a2.chunk.js.map": "/AItutor-Incu/static/js/488.267755a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.643bf819.css",
-    "static/js/main.014ead94.js"
+    "static/js/main.d57d0eda.js"
   ]
 }
