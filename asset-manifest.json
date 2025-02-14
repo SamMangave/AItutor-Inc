@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AItutor-Incu/static/css/main.643bf819.css",
-    "main.js": "/AItutor-Incu/static/js/main.d57d0eda.js",
-    "static/js/488.267755a2.chunk.js": "/AItutor-Incu/static/js/488.267755a2.chunk.js",
-    "index.html": "/AItutor-Incu/index.html",
-    "main.643bf819.css.map": "/AItutor-Incu/static/css/main.643bf819.css.map",
-    "main.d57d0eda.js.map": "/AItutor-Incu/static/js/main.d57d0eda.js.map",
-    "488.267755a2.chunk.js.map": "/AItutor-Incu/static/js/488.267755a2.chunk.js.map"
+    "main.css": "/SamMangave/AItutor-Inc/static/css/main.643bf819.css",
+    "main.js": "/SamMangave/AItutor-Inc/static/js/main.7730e65a.js",
+    "static/js/488.267755a2.chunk.js": "/SamMangave/AItutor-Inc/static/js/488.267755a2.chunk.js",
+    "index.html": "/SamMangave/AItutor-Inc/index.html",
+    "main.643bf819.css.map": "/SamMangave/AItutor-Inc/static/css/main.643bf819.css.map",
+    "main.7730e65a.js.map": "/SamMangave/AItutor-Inc/static/js/main.7730e65a.js.map",
+    "488.267755a2.chunk.js.map": "/SamMangave/AItutor-Inc/static/js/488.267755a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.643bf819.css",
-    "static/js/main.d57d0eda.js"
+    "static/js/main.7730e65a.js"
   ]
 }
